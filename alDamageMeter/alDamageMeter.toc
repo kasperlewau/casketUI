@@ -1,0 +1,10 @@
+## Interface: 50400
+## Author: Allez
+## Title: |cff777777al|rDamageMeter
+## Version: 50400.15
+## Notes: Damage meter
+## OptionalDeps: alInterface
+## SavedVariables: dmconf
+
+embeds.xml
+alDamageMeter.lua

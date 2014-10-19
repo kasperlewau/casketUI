@@ -1,0 +1,15 @@
+## Interface: 50400
+## Title: |cffc0392bcasket|rUI
+## Author: Casket
+## Version: 40300
+## Notes: Caskets's UI.
+
+HideStance.lua
+HideButtonText.lua
+HideGryphon.lua
+HideUnitFrameStuff.lua
+MoveRightBars.lua
+ClassPortraits.lua
+Scale.lua
+DamageFont.lua
+SafeQueue.lua

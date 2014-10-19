@@ -1,0 +1,14 @@
+## Interface: 50400
+## Title: BasicBuffs
+## Notes: Move that buff frame!
+## Author: Funkydude
+## X-Category: Buffs
+## Version: 2.32
+## SavedVariables: BasicBuffsStorage
+## X-Curse-Packaged-Version: v2.32
+## X-Curse-Project-Name: BasicBuffs
+## X-Curse-Project-ID: basicbuffs
+## X-Curse-Repository-ID: wow/basicbuffs/mainline
+
+BasicBuffs.lua
+
