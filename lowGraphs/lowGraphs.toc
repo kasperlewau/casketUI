@@ -1,0 +1,7 @@
+## Interface: 50400
+## Title: |cffc0392blow|Graphs
+## Author: Casket
+## Version: 40300
+## Notes: Low graphics settings.
+
+lowGraphs.lua
